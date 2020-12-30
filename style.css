@@ -1,3 +1,25 @@
 body {
-    background-color: aquamarine;
+    background-color: #FFCF33;
+    color: #2A0B5B;
+    text-align: center;
+    padding: 10px;
+    font-size: 2.5em;
+}
+#heading{
+    color: #8B0467;
+
+}
+.first{
+    
+}
+.second{
+
+}
+.third{
+    font-family: 'Yellowtail', cursive;
+    font-size:1em; 
+}
+.image1{
+    /* display:flex; */
+    display:center;
 }
